@@ -17,7 +17,7 @@ global.headerText = "Anya by Pika" // text for header of menu //
      
              //-------------👑Owner & vcard 👑----------\\             
              global.ownernumber = ['923150513637']   // Owner number //
-             global.vcardowner = ['918811074852']   // vcard owner number //
+             global.vcardowner = ['923150513637']   // vcard owner number //
              global.ownername = "𝙐𝚭𝚫𝚰𝑹 ⽊"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
