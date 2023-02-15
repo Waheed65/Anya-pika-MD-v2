@@ -16,16 +16,16 @@ actiontitle = '࿙⚜𝙐𝚭𝚫𝚰𝑹⚜࿚' // text who displays on the top
 global.headerText = " ιΘνειϓ ʙʏ ᴜᴢᴀɪʀ" // text for header of menu //        
      
              //-------------👑Owner & vcard 👑----------\\             
-             global.ownernumber = ['923150513637']   // Owner number //
-             global.vcardowner = ['923150513637']   // vcard owner number //
+             global.ownernumber = ['923150513638']   // Owner number //
+             global.vcardowner = ['923150513638']   // vcard owner number //
              global.ownername = "𝙐𝚭𝚫𝚰𝑹 ⽊"   // Owner name //
              global.ytname = "YT: ONYXPIKA"   // Yt chanel name //
              global.socialm = "𝗚𝗶𝘁𝗵𝘂𝗯 : Pika4o4"   // Github or insta name //
              global.location = "India, Assam, Dibrugarh"   // Location //
-             global.owner = ['918811074852','917355622763','919673141317']
-             global.ownertag = '923150513637'  // Tag number //
-             global.linkz = "https://wa.me/+923150513637"  // Theme url which will be displayed on whatsapp //
-             global.premium = ['923150513637']  // premium numbers //             
+             global.owner = ['919673141318']
+             global.ownertag = '923150513638'  // Tag number //
+             global.linkz = "https://wa.me/+923150513638"  // Theme url which will be displayed on whatsapp //
+             global.premium = ['923150513638']  // premium numbers //             
              global.waterMark = "×͜× ʟᴏᴠᴇʟʏ ʙᴏᴛ™ ✓" // Your own watermark //
 
 global.prefa = ['','-']
